@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(50, 32, 32);
+}
+.div1 {
+  background-color: rgb(214, 192, 151);
+  width: 90%;
+  height: 30vh;
+  padding: 2rem;
+  color: white;
+}
+.maindiv {
+  background-color: rgb(185, 119, 119);
+  height: 50vh;
+  margin-top: -5rem;
+  padding: 1rem;
+}
+
+.btn1,
+.btn2 {
+  height: 3rem;
+  background-color: rgb(51, 8, 8);
+  color: whitesmoke;
+  border-radius: 5px;
+  border: 2px solid aqua;
+}
+
+.App {
+  text-align: center;
+  background-color: white;
+  margin: 5rem 15rem 0 20rem;
+  height: 70vh;
+  width: 56%;
+  font-size: 3rem;
+}
+.header {
+  background-color: rgb(104, 6, 6);
+  color: white;
+  font-size: 2rem;
+  height: 9rem;
+}
